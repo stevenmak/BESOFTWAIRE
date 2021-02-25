@@ -1,5 +1,5 @@
-# Betasoftwaire
-Logiiciel de gestion de projet dans une entreprise de construction de A-Z concu en Larvel le logiciel comprend les modules suivants:
+# Besoftwaire
+Logiciel de gestion de projet dans une entreprise de construction de A-Z concu en Larvel le logiciel comprend les modules suivants:
 1. la gestion des agents de l entreprise
 2. la gestion des utilisateurs et leurs roles et permissions
 3. la gestion des clients de l entreprise
